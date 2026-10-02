@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TSDMH_7S5_PRAC5_RODRIGUEZMORALES</string>
+    <string name="p1t1">Uso de elementos parcelables</string>
+    <string name="p1nombre">Nombre</string>
+    <string name="p1edad">Edad</string>
+    <string name="p1correo">Correo</string>
+    <string name="p1h1">Aqui su nombre</string>
+    <string name="p1h2">Aqui su edad</string>
+    <string name="p1h3">Aqui su correo</string>
+    <string name="p1btn1">Enviar Datos</string>
+
+    //PANTALLA 2 ----------------------------------------------
+
+    <string name="p2t1">Recepcion de datos</string>
+    <string name="p2lbl1">Datos Recibidos</string>
+
+</resources>
